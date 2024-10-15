@@ -1,0 +1,13 @@
+Fitur:
+
+1. Program masukan PIN ATM Menggunakan perulangan (While), jika User memasukkan PIN ATM yang benar (6 digit), maka user akan diarahkan ke menu-menu yang disediakan, dan jika salah, user akan diminta memasukkan ulang PIN ATM tersebut. Sehingga aplikasi tidak akan tertutup/berakhir jika user salah memasukkan PIN ATM.
+
+2. Nominal manual yang bisa disesuaikan oleh User.
+
+3. Transfer ke sesama Bank.
+
+4. Menyediakan Reporting, agar User bisa memberitahukan kendala yang ada pada mesin ATM. (hanyalah sebuah simulasi semata, jika didunia nyata membutuhkan Real-Time agar Reporting bisa langsung terkirim ke CS).
+
+5. Memiliki waktu tunggu ketika memasuki menu/opsi selanjutnya, sehingga memberikan kesan yang nyata.
+
+6. Ingatlah, ini semua hanya simulasi, dalam kenyataan, perlu memberikan keamanan tambahan dan juga kompleksitas yang tinggi.
